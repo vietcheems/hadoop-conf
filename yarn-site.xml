@@ -20,7 +20,7 @@
 
     <property>
             <name>yarn.resourcemanager.hostname</name>
-            <value>vietChad</value>
+            <value>viet</value>
     </property>
 
     <property>

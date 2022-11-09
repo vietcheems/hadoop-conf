@@ -18,6 +18,6 @@
     <configuration>
         <property>
             <name>fs.default.name</name>
-            <value>hdfs://vietChad:9000</value>
+            <value>hdfs://viet:9000</value>
         </property>
     </configuration>
