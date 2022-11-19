@@ -1,4 +1,6 @@
 # My hadoop configuration
 
-# WebUI port:
-`sdfljk`
+## WebUI port:
+### namenode: `9870`
+### datanode: `9864`
+
