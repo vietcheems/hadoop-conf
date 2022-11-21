@@ -9,4 +9,7 @@
 - historyserver: `19888`
 ### Hive
 - hiveserver2: `10002`
+### Spark
+- Spark Driver: `4040`
+- historyserver: `18080`
 
