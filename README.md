@@ -1,5 +1,5 @@
-# My hadoop configuration
-
+# Hadoop pseudo-distributed configuration
+NOTE: Remove all line containing the hostname in /etc/hosts
 ## WebUI port:
 ### Hadoop
 - namenode: `9870`
