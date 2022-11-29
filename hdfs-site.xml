@@ -30,4 +30,8 @@
             <name>dfs.replication</name>
             <value>1</value>
     </property>
+    <property>
+            <name>dfs.namenode.secondary.http-address</name>
+            <value>localhost:9868</value>
+    </property>
 </configuration>
